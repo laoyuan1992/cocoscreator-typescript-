@@ -1,0 +1,53 @@
+ManifestFileVersion: 0
+CRC: 3560906809
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1c6e6cd03792a7bd35f68216ded03d03
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6d4e539ce4688867c73bc32ee9269d47
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1741964061, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -2095666955, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -1200242548, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1367256648, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1573420865, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7dfa1846e6bf1154692037ef13e6f269, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 63558a7ef6c53484095376568993bbdd, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/LuaFramework/Resources/Prefabs/MissionPanel.prefab
+Dependencies:
+- /Users/zhiwakeji/Documents/ziyuanbao/ZhiLiYunDongHui/AssetBundles/StreamingAssets/hall-atlas/qualify
+- /Users/zhiwakeji/Documents/ziyuanbao/ZhiLiYunDongHui/AssetBundles/StreamingAssets/hall-common/microsoftyaheigb
+- /Users/zhiwakeji/Documents/ziyuanbao/ZhiLiYunDongHui/AssetBundles/StreamingAssets/hall-atlas/common

@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3902397784
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 58d05b755da4b3f22c70f545006ac9da
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a92cc4b0d85d05c1fedfa0f4ad2fb0ee
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -98529514, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/LuaFramework/Resources/Prefabs/BillBoardCell.prefab
+Dependencies:
+- /Users/zhiwakeji/Documents/ziyuanbao/ZhiLiYunDongHui/AssetBundles/StreamingAssets/hall-atlas/common

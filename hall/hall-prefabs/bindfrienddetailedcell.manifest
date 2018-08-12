@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 598839183
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8fcfaf958e853b97f4bbeb5d90714330
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bb19e5cf852da47628826ea383b31ef6
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -98529514, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/LuaFramework/Resources/Prefabs/BindFriendDetailedCell.prefab
+Dependencies:
+- /Users/zhiwakeji/Documents/ziyuanbao/ZhiLiYunDongHui/AssetBundles/StreamingAssets/hall-atlas/hall
+- /Users/zhiwakeji/Documents/ziyuanbao/ZhiLiYunDongHui/AssetBundles/StreamingAssets/hall-atlas/hall2
+- /Users/zhiwakeji/Documents/ziyuanbao/ZhiLiYunDongHui/AssetBundles/StreamingAssets/hall-common/microsoftyaheigb
+- /Users/zhiwakeji/Documents/ziyuanbao/ZhiLiYunDongHui/AssetBundles/StreamingAssets/hall-atlas/common

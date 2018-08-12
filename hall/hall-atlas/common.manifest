@@ -1,0 +1,63 @@
+ManifestFileVersion: 0
+CRC: 3571146003
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8f73d5b7c10a2327ad9fd1f2dc9d6846
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9e6b0c9e0a031c9b73f153be81da8eda
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/LuaFramework/Resources/Texture/Qualify/bg_xiala.png
+- Assets/LuaFramework/Resources/Prefabs/RankLevel/Particle/Textures/glow.png
+- Assets/LuaFramework/Resources/Texture/Qualify/bg_common_small.png
+- Assets/LuaFramework/Resources/Prefabs/RankLevel/Model/modle/effect_wb/Materials/100007_Mat11_Par_add.mat
+- Assets/LuaFramework/Resources/Materials/Circular.mat
+- Assets/Resources/Shader/Circular.shader
+- Assets/Resources/Spine/loading/loading_Material.mat
+- Assets/LuaFramework/Resources/Texture/Hall/bg_bottom.png
+- Assets/LuaFramework/Resources/Texture/Qualify/icon_diamond.png
+- Assets/LuaFramework/Resources/Texture/Qualify/icon_beans.png
+- Assets/Resources/Spine/loading/loading_Atlas.asset
+- Assets/LuaFramework/Resources/Texture/Qualify/light_bg.png
+- Assets/LuaFramework/Resources/Texture/Qualify/bg_common1024.jpg
+- Assets/LuaFramework/Resources/Texture/Hall/bg_common_bottom.png
+- Assets/LuaFramework/Resources/Texture/Hall/btn_hall_join.png
+- Assets/Resources/Spine/loading/loading_SkeletonData.asset
+- Assets/LuaFramework/Resources/Prefabs/RankLevel/Particle/Materials/Misc/ring (additive).mat
+- Assets/Resources/Spine/loading/loading.json
+- Assets/LuaFramework/Resources/Prefabs/RankLevel/Particle/Textures/ring.png
+- Assets/LuaFramework/Resources/Texture/Qualify/bg_middle.png
+- Assets/LuaFramework/Resources/Texture/Hall/banner_invite.jpg
+- Assets/LuaFramework/Resources/Prefabs/RankLevel/Model/modle/effect_wb/Textures/glow03_128.png
+- Assets/LuaFramework/Resources/Texture/Qualify/common_btn.png
+- Assets/Tools/spine-unity/Shaders/Skeleton.shader
+- Assets/Resources/Icon/icon_108.png
+- Assets/LuaFramework/Resources/Prefabs/RankLevel/Particle/Materials/Glows/glow.mat
+- Assets/LuaFramework/Resources/Texture/Hall/bg_photo.png
+- Assets/LuaFramework/Resources/Texture/Hall/bg_bg.png
+- Assets/LuaFramework/Resources/Texture/Hall/mission.png
+- Assets/LuaFramework/Resources/Texture/Hall/icon_kong.png
+- Assets/Resources/Spine/loading/loading.png
+- Assets/LuaFramework/Resources/Texture/Qualify/bg_fangjh.png
+- Assets/Resources/Spine/loading/loading.atlas.txt
+- Assets/LuaFramework/Resources/Texture/Qualify/common_btn_blue.png
+Dependencies: []

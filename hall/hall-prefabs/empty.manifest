@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2503166641
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8cc62fa70c4f33e99d95f896ef421761
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bc0c300e26427fb63fb9afcd38480771
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/LuaFramework/Resources/Prefabs/empty.prefab
+Dependencies: []

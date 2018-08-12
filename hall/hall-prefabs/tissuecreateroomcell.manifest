@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 1193849927
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1e3cf23da12b808bd85e63e30e9f2e1f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4258db97d829aff66071384ce8fda036
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -405508275, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -98529514, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1573420865, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/LuaFramework/Resources/Prefabs/TissueCreateRoomCell.prefab
+Dependencies:
+- /Users/zhiwakeji/Documents/ziyuanbao/ZhiLiYunDongHui/AssetBundles/StreamingAssets/hall-atlas/hall
+- /Users/zhiwakeji/Documents/ziyuanbao/ZhiLiYunDongHui/AssetBundles/StreamingAssets/hall-common/microsoftyaheigb
+- /Users/zhiwakeji/Documents/ziyuanbao/ZhiLiYunDongHui/AssetBundles/StreamingAssets/hall-atlas/common

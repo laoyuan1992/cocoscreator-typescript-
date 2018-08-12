@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 3367907000
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 191381af2df27a07531dc21eb5107535
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5fd08ae09fb8e0b84a78521581251a4b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1741964061, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -146154839, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/LuaFramework/Resources/Prefabs/UIPaoMaDengPanel.prefab
+Dependencies:
+- /Users/zhiwakeji/Documents/ziyuanbao/ZhiLiYunDongHui/AssetBundles/StreamingAssets/hall-atlas/hall
+- /Users/zhiwakeji/Documents/ziyuanbao/ZhiLiYunDongHui/AssetBundles/StreamingAssets/hall-common/microsoftyaheigb

@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1416014180
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3c86cf1e3950004fc0a6a2cb4283a25a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ee96b98c7b8e9404fc27edfcf52e7cce
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/LuaFramework/Resources/Prefabs/RankLevel/YellowParticle.prefab
+Dependencies:
+- /Users/zhiwakeji/Documents/ziyuanbao/ZhiLiYunDongHui/AssetBundles/StreamingAssets/hall-atlas/common

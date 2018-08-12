@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3016071126
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 749d937074bff41173332e97a2d222d3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9fa5a23abf4a9e0957a0e9f54d0f74e0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+Assets:
+- Assets/LuaFramework/Resources/Font/MicrosoftYaHeiGB.ttf
+Dependencies: []

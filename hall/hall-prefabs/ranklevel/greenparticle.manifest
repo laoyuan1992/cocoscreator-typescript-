@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3119074052
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 65ff02dd560490ec043b4a9e7be71a82
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ee96b98c7b8e9404fc27edfcf52e7cce
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/LuaFramework/Resources/Prefabs/RankLevel/GreenParticle.prefab
+Dependencies:
+- /Users/zhiwakeji/Documents/ziyuanbao/ZhiLiYunDongHui/AssetBundles/StreamingAssets/hall-atlas/common

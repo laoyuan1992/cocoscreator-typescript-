@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 460330002
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 583cc86d48dc6d7bf53320275fce2a20
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/LuaFramework/Resources/Audio/Backgrounds/theme.ogg
+Dependencies: []

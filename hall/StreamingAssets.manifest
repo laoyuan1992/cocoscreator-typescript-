@@ -1,0 +1,1006 @@
+ManifestFileVersion: 0
+CRC: 1319770951
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: hall-atlas/hall
+      Dependencies: {}
+    Info_1:
+      Name: hall-atlas/hall2
+      Dependencies: {}
+    Info_2:
+      Name: hall-atlas/headframe
+      Dependencies: {}
+    Info_3:
+      Name: hall-atlas/itemui
+      Dependencies: {}
+    Info_4:
+      Name: hall-atlas/qualify
+      Dependencies: {}
+    Info_5:
+      Name: hall-atlas/icon_baiyin
+      Dependencies: {}
+    Info_6:
+      Name: hall-atlas/icon_bojin
+      Dependencies: {}
+    Info_7:
+      Name: hall-atlas/icon_dashi
+      Dependencies: {}
+    Info_8:
+      Name: hall-atlas/icon_huangjin
+      Dependencies: {}
+    Info_9:
+      Name: hall-atlas/icon_qingtong
+      Dependencies: {}
+    Info_10:
+      Name: hall-atlas/icon_wangzhe
+      Dependencies: {}
+    Info_11:
+      Name: hall-atlas/icon_zuanshi
+      Dependencies: {}
+    Info_12:
+      Name: hall-audio/backgrounds
+      Dependencies: {}
+    Info_13:
+      Name: hall-audio/effects
+      Dependencies: {}
+    Info_14:
+      Name: hall-prefabs/aboutuspanel
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+        Dependency_2: hall-atlas/common
+    Info_15:
+      Name: hall-prefabs/activitypanel
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+        Dependency_2: hall-atlas/common
+    Info_16:
+      Name: hall-prefabs/backpackcell
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-atlas/itemui
+        Dependency_2: hall-common/microsoftyaheigb
+    Info_17:
+      Name: hall-prefabs/backpackpanel
+      Dependencies: {}
+    Info_18:
+      Name: hall-prefabs/battleplaybackcell
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+    Info_19:
+      Name: hall-prefabs/battleplaybackpanel
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+        Dependency_2: hall-atlas/common
+    Info_20:
+      Name: hall-prefabs/battlerecordcell
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+        Dependency_2: hall-atlas/common
+    Info_21:
+      Name: hall-prefabs/battlerecorddetailedcell
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+        Dependency_2: hall-atlas/common
+    Info_22:
+      Name: hall-prefabs/battlerecorddetailedpanel
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+        Dependency_2: hall-atlas/common
+    Info_23:
+      Name: hall-prefabs/battlerecordpanel
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+        Dependency_2: hall-atlas/common
+    Info_24:
+      Name: hall-prefabs/biaoqiantoggle
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+    Info_25:
+      Name: hall-prefabs/billboardcell
+      Dependencies:
+        Dependency_0: hall-atlas/common
+    Info_26:
+      Name: hall-prefabs/bindfrienddetailedcell
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-atlas/hall2
+        Dependency_2: hall-common/microsoftyaheigb
+        Dependency_3: hall-atlas/common
+    Info_27:
+      Name: hall-prefabs/bindfrienddetailedpanel
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+        Dependency_2: hall-atlas/common
+    Info_28:
+      Name: hall-prefabs/bindfriendpanel
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-atlas/hall2
+        Dependency_2: hall-common/microsoftyaheigb
+        Dependency_3: hall-atlas/common
+    Info_29:
+      Name: hall-prefabs/bindidcardpanel
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+        Dependency_2: hall-atlas/common
+    Info_30:
+      Name: hall-prefabs/bindphonepanel
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+        Dependency_2: hall-atlas/common
+    Info_31:
+      Name: hall-prefabs/cashmatchitemcell
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-atlas/qualify
+        Dependency_2: hall-common/microsoftyaheigb
+        Dependency_3: hall-atlas/common
+    Info_32:
+      Name: hall-prefabs/cashmatchpanel
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-atlas/qualify
+        Dependency_2: hall-common/microsoftyaheigb
+        Dependency_3: hall-atlas/common
+    Info_33:
+      Name: hall-prefabs/cashmatchrankingpanel
+      Dependencies:
+        Dependency_0: hall-atlas/qualify
+        Dependency_1: hall-common/microsoftyaheigb
+        Dependency_2: hall-atlas/common
+    Info_34:
+      Name: hall-prefabs/cashmatchroomtypecell
+      Dependencies:
+        Dependency_0: hall-common/microsoftyaheigb
+        Dependency_1: hall-atlas/common
+    Info_35:
+      Name: hall-prefabs/cashmatchstarttypecell
+      Dependencies:
+        Dependency_0: hall-atlas/qualify
+        Dependency_1: hall-common/microsoftyaheigb
+    Info_36:
+      Name: hall-prefabs/cashmatchtimerpanel
+      Dependencies:
+        Dependency_0: hall-atlas/qualify
+        Dependency_1: hall-common/microsoftyaheigb
+        Dependency_2: hall-atlas/common
+    Info_37:
+      Name: hall-prefabs/cashrewardtextcell
+      Dependencies:
+        Dependency_0: hall-common/microsoftyaheigb
+    Info_38:
+      Name: hall-prefabs/cashsignuppanel
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-atlas/qualify
+        Dependency_2: hall-common/microsoftyaheigb
+        Dependency_3: hall-atlas/common
+    Info_39:
+      Name: hall-prefabs/chrysanthemumpanel
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+        Dependency_2: hall-atlas/common
+    Info_40:
+      Name: hall-prefabs/createroompanel
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-atlas/qualify
+        Dependency_2: hall-common/microsoftyaheigb
+        Dependency_3: hall-atlas/common
+    Info_41:
+      Name: hall-prefabs/createtissuepanel
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-atlas/qualify
+        Dependency_2: hall-common/microsoftyaheigb
+        Dependency_3: hall-atlas/common
+    Info_42:
+      Name: hall-prefabs/detailplayerinfopanel
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-atlas/hall2
+        Dependency_2: hall-common/microsoftyaheigb
+        Dependency_3: hall-atlas/common
+    Info_43:
+      Name: hall-prefabs/dropdown
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-atlas/qualify
+        Dependency_2: hall-common/microsoftyaheigb
+        Dependency_3: hall-atlas/common
+    Info_44:
+      Name: hall-prefabs/friendroompanel
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+        Dependency_2: hall-atlas/common
+    Info_45:
+      Name: hall-prefabs/friendtissuecell
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+        Dependency_2: hall-atlas/common
+    Info_46:
+      Name: hall-prefabs/friendtissuepanel
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-atlas/qualify
+        Dependency_2: hall-common/microsoftyaheigb
+        Dependency_3: hall-atlas/common
+    Info_47:
+      Name: hall-prefabs/gameareacell
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+    Info_48:
+      Name: hall-prefabs/gameareapanel
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-atlas/qualify
+        Dependency_2: hall-common/microsoftyaheigb
+        Dependency_3: hall-atlas/common
+    Info_49:
+      Name: hall-prefabs/gameitem
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-atlas/qualify
+        Dependency_2: hall-common/microsoftyaheigb
+        Dependency_3: hall-atlas/common
+    Info_50:
+      Name: hall-prefabs/gamelistcell
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+        Dependency_2: hall-atlas/common
+    Info_51:
+      Name: hall-prefabs/gamelistpanel
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-atlas/qualify
+        Dependency_2: hall-common/microsoftyaheigb
+        Dependency_3: hall-atlas/common
+    Info_52:
+      Name: hall-prefabs/gamepageitem
+      Dependencies: {}
+    Info_53:
+      Name: hall-prefabs/hallpanel
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-atlas/qualify
+        Dependency_2: hall-common/microsoftyaheigb
+        Dependency_3: hall-atlas/common
+    Info_54:
+      Name: hall-prefabs/hallrulepanel
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+        Dependency_2: hall-atlas/common
+    Info_55:
+      Name: hall-prefabs/joinroompanel
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-atlas/hall2
+        Dependency_2: hall-common/microsoftyaheigb
+    Info_56:
+      Name: hall-prefabs/jointissuecell
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+        Dependency_2: hall-atlas/common
+    Info_57:
+      Name: hall-prefabs/jointissuepanel
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-atlas/qualify
+        Dependency_2: hall-common/microsoftyaheigb
+        Dependency_3: hall-atlas/common
+    Info_58:
+      Name: hall-prefabs/jubaopanel
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+        Dependency_2: hall-atlas/common
+    Info_59:
+      Name: hall-prefabs/loginpanel
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-atlas/hall2
+        Dependency_2: hall-common/microsoftyaheigb
+    Info_60:
+      Name: hall-prefabs/mailmessagepanel
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-atlas/itemui
+        Dependency_2: hall-common/microsoftyaheigb
+        Dependency_3: hall-atlas/common
+    Info_61:
+      Name: hall-prefabs/mailpanel
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+        Dependency_2: hall-atlas/common
+    Info_62:
+      Name: hall-prefabs/matchrulepanel
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-atlas/qualify
+        Dependency_2: hall-common/microsoftyaheigb
+        Dependency_3: hall-atlas/common
+    Info_63:
+      Name: hall-prefabs/matchingpanel
+      Dependencies:
+        Dependency_0: hall-atlas/qualify
+        Dependency_1: hall-common/microsoftyaheigb
+        Dependency_2: hall-atlas/common
+    Info_64:
+      Name: hall-prefabs/messagepanel
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+    Info_65:
+      Name: hall-prefabs/missioncell
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+    Info_66:
+      Name: hall-prefabs/missionpanel
+      Dependencies:
+        Dependency_0: hall-atlas/qualify
+        Dependency_1: hall-common/microsoftyaheigb
+        Dependency_2: hall-atlas/common
+    Info_67:
+      Name: hall-prefabs/modifybindphonepanel
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+        Dependency_2: hall-atlas/common
+    Info_68:
+      Name: hall-prefabs/noticepanel
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+        Dependency_2: hall-atlas/common
+    Info_69:
+      Name: hall-prefabs/oldselectcitycell
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+    Info_70:
+      Name: hall-prefabs/photoframecell
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-atlas/headframe
+        Dependency_2: hall-common/microsoftyaheigb
+    Info_71:
+      Name: hall-prefabs/photoframepanel
+      Dependencies: {}
+    Info_72:
+      Name: hall-prefabs/piecewisedetailpanel
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-atlas/qualify
+        Dependency_2: hall-atlas/icon_baiyin
+        Dependency_3: hall-atlas/icon_bojin
+        Dependency_4: hall-atlas/icon_dashi
+        Dependency_5: hall-atlas/icon_huangjin
+        Dependency_6: hall-atlas/icon_qingtong
+        Dependency_7: hall-atlas/icon_wangzhe
+        Dependency_8: hall-atlas/icon_zuanshi
+        Dependency_9: hall-common/microsoftyaheigb
+        Dependency_10: hall-atlas/common
+    Info_73:
+      Name: hall-prefabs/playerbaseinfopanel
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+    Info_74:
+      Name: hall-prefabs/playerinfopanel
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+        Dependency_2: hall-atlas/common
+    Info_75:
+      Name: hall-prefabs/privatetissuepanel
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-atlas/qualify
+        Dependency_2: hall-common/microsoftyaheigb
+        Dependency_3: hall-atlas/common
+    Info_76:
+      Name: hall-prefabs/qualifyingrankpanel
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-atlas/qualify
+        Dependency_2: hall-common/microsoftyaheigb
+        Dependency_3: hall-atlas/common
+    Info_77:
+      Name: hall-prefabs/qualifyingstarrankcell
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-atlas/qualify
+        Dependency_2: hall-common/microsoftyaheigb
+        Dependency_3: hall-atlas/common
+    Info_78:
+      Name: hall-prefabs/rewardpanel
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+        Dependency_2: hall-atlas/common
+    Info_79:
+      Name: hall-prefabs/scrollview
+      Dependencies: {}
+    Info_80:
+      Name: hall-prefabs/servicerpanel
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+        Dependency_2: hall-atlas/common
+    Info_81:
+      Name: hall-prefabs/settingpanel
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+        Dependency_2: hall-atlas/common
+    Info_82:
+      Name: hall-prefabs/shopitem
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-atlas/hall2
+        Dependency_2: hall-common/microsoftyaheigb
+        Dependency_3: hall-atlas/common
+    Info_83:
+      Name: hall-prefabs/shoppanel
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-atlas/hall2
+        Dependency_2: hall-atlas/qualify
+        Dependency_3: hall-common/microsoftyaheigb
+        Dependency_4: hall-atlas/common
+    Info_84:
+      Name: hall-prefabs/shoppromptingpanel
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-atlas/hall2
+        Dependency_2: hall-atlas/qualify
+        Dependency_3: hall-common/microsoftyaheigb
+        Dependency_4: hall-atlas/common
+    Info_85:
+      Name: hall-prefabs/shoptypebuttoncell
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+    Info_86:
+      Name: hall-prefabs/starrankmatchpanel
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-atlas/qualify
+        Dependency_2: hall-atlas/icon_qingtong
+        Dependency_3: hall-common/microsoftyaheigb
+        Dependency_4: hall-atlas/common
+    Info_87:
+      Name: hall-prefabs/statementpanel
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+        Dependency_2: hall-atlas/common
+    Info_88:
+      Name: hall-prefabs/tissuecreateroomcell
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+        Dependency_2: hall-atlas/common
+    Info_89:
+      Name: hall-prefabs/tissuecreateroompanel
+      Dependencies:
+        Dependency_0: hall-atlas/qualify
+        Dependency_1: hall-common/microsoftyaheigb
+        Dependency_2: hall-atlas/common
+    Info_90:
+      Name: hall-prefabs/tissuegamelistcell
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+        Dependency_2: hall-atlas/common
+    Info_91:
+      Name: hall-prefabs/tissuegamesettingcell
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+        Dependency_2: hall-atlas/common
+    Info_92:
+      Name: hall-prefabs/tissuegamesettingpanel
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-atlas/qualify
+        Dependency_2: hall-common/microsoftyaheigb
+        Dependency_3: hall-atlas/common
+    Info_93:
+      Name: hall-prefabs/tissuemasterpanel
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-atlas/qualify
+        Dependency_2: hall-common/microsoftyaheigb
+        Dependency_3: hall-atlas/common
+    Info_94:
+      Name: hall-prefabs/tissuemembercell
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+        Dependency_2: hall-atlas/common
+    Info_95:
+      Name: hall-prefabs/tissuememberlistpanel
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+    Info_96:
+      Name: hall-prefabs/tissuememberpanel
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-atlas/qualify
+        Dependency_2: hall-common/microsoftyaheigb
+        Dependency_3: hall-atlas/common
+    Info_97:
+      Name: hall-prefabs/tissuemoneylimitpanel
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+        Dependency_2: hall-atlas/common
+    Info_98:
+      Name: hall-prefabs/tissuenoticepanel
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+        Dependency_2: hall-atlas/common
+    Info_99:
+      Name: hall-prefabs/tissuepersonalinfopanel
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-atlas/qualify
+        Dependency_2: hall-common/microsoftyaheigb
+        Dependency_3: hall-atlas/common
+    Info_100:
+      Name: hall-prefabs/tissueplayerapplycell
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+        Dependency_2: hall-atlas/common
+    Info_101:
+      Name: hall-prefabs/tissueplayerapplypanel
+      Dependencies:
+        Dependency_0: hall-atlas/qualify
+        Dependency_1: hall-common/microsoftyaheigb
+        Dependency_2: hall-atlas/common
+    Info_102:
+      Name: hall-prefabs/tissuerechargecell
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+    Info_103:
+      Name: hall-prefabs/tissuerechargepanel
+      Dependencies:
+        Dependency_0: hall-atlas/qualify
+        Dependency_1: hall-common/microsoftyaheigb
+        Dependency_2: hall-atlas/common
+    Info_104:
+      Name: hall-prefabs/tissuerecordcell
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+    Info_105:
+      Name: hall-prefabs/tissuerecordlistpanel
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+        Dependency_2: hall-atlas/common
+    Info_106:
+      Name: hall-prefabs/tissueroomcell
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+        Dependency_2: hall-atlas/common
+    Info_107:
+      Name: hall-prefabs/tissueroomlistpanel
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+    Info_108:
+      Name: hall-prefabs/tissueselectgamepanel
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-atlas/qualify
+        Dependency_2: hall-common/microsoftyaheigb
+        Dependency_3: hall-atlas/common
+    Info_109:
+      Name: hall-prefabs/tissueselectroompanel
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-atlas/qualify
+        Dependency_2: hall-common/microsoftyaheigb
+        Dependency_3: hall-atlas/common
+    Info_110:
+      Name: hall-prefabs/tissuesettingpanel
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-atlas/qualify
+        Dependency_2: hall-common/microsoftyaheigb
+        Dependency_3: hall-atlas/common
+    Info_111:
+      Name: hall-prefabs/togglemailcell
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-atlas/hall2
+        Dependency_2: hall-common/microsoftyaheigb
+    Info_112:
+      Name: hall-prefabs/uipaomadengpanel
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+    Info_113:
+      Name: hall-prefabs/userpactpanel
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+        Dependency_2: hall-atlas/common
+    Info_114:
+      Name: hall-prefabs/empty
+      Dependencies: {}
+    Info_115:
+      Name: hall-prefabs/createroommethod/cso_xj
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+    Info_116:
+      Name: hall-prefabs/createroommethod/cs_xj
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+    Info_117:
+      Name: hall-prefabs/createroommethod/ddz_xj
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+    Info_118:
+      Name: hall-prefabs/createroommethod/gdy_xj
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+    Info_119:
+      Name: hall-prefabs/createroommethod/gd_xj
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+    Info_120:
+      Name: hall-prefabs/createroommethod/mj_11
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+    Info_121:
+      Name: hall-prefabs/createroommethod/mj_13
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+    Info_122:
+      Name: hall-prefabs/createroommethod/mj_16
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+    Info_123:
+      Name: hall-prefabs/createroommethod/mj_17
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+    Info_124:
+      Name: hall-prefabs/createroommethod/mj_18
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+    Info_125:
+      Name: hall-prefabs/createroommethod/mj_19
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+    Info_126:
+      Name: hall-prefabs/createroommethod/mj_21
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+    Info_127:
+      Name: hall-prefabs/createroommethod/mj_22
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+    Info_128:
+      Name: hall-prefabs/createroommethod/mj_23
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+    Info_129:
+      Name: hall-prefabs/createroommethod/mj_25
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+    Info_130:
+      Name: hall-prefabs/createroommethod/mj_30
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+    Info_131:
+      Name: hall-prefabs/createroommethod/mj_31
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+    Info_132:
+      Name: hall-prefabs/createroommethod/mj_32
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+    Info_133:
+      Name: hall-prefabs/createroommethod/mj_33
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+    Info_134:
+      Name: hall-prefabs/createroommethod/mj_34
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+    Info_135:
+      Name: hall-prefabs/createroommethod/mj_36
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+    Info_136:
+      Name: hall-prefabs/createroommethod/mj_39
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+    Info_137:
+      Name: hall-prefabs/createroommethod/mj_45
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+    Info_138:
+      Name: hall-prefabs/createroommethod/mj_5
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+    Info_139:
+      Name: hall-prefabs/createroommethod/mj_51
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+    Info_140:
+      Name: hall-prefabs/createroommethod/mj_54
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+    Info_141:
+      Name: hall-prefabs/createroommethod/mj_55
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+    Info_142:
+      Name: hall-prefabs/createroommethod/mj_56
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+    Info_143:
+      Name: hall-prefabs/createroommethod/mj_57
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+    Info_144:
+      Name: hall-prefabs/createroommethod/mj_6
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+    Info_145:
+      Name: hall-prefabs/createroommethod/mj_60
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+    Info_146:
+      Name: hall-prefabs/createroommethod/mj_61
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+    Info_147:
+      Name: hall-prefabs/createroommethod/mj_65
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+    Info_148:
+      Name: hall-prefabs/createroommethod/mj_69
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+    Info_149:
+      Name: hall-prefabs/createroommethod/mj_7
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+    Info_150:
+      Name: hall-prefabs/createroommethod/mj_73
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+    Info_151:
+      Name: hall-prefabs/createroommethod/mj_75
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+    Info_152:
+      Name: hall-prefabs/createroommethod/mj_76
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+    Info_153:
+      Name: hall-prefabs/createroommethod/mj_77
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+    Info_154:
+      Name: hall-prefabs/createroommethod/mj_78
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+    Info_155:
+      Name: hall-prefabs/createroommethod/mj_8
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+    Info_156:
+      Name: hall-prefabs/createroommethod/mj_81
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+    Info_157:
+      Name: hall-prefabs/createroommethod/mj_86
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+    Info_158:
+      Name: hall-prefabs/createroommethod/mj_94
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+    Info_159:
+      Name: hall-prefabs/createroommethod/mj_95
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+    Info_160:
+      Name: hall-prefabs/createroommethod/nn_xj
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+    Info_161:
+      Name: hall-prefabs/createroommethod/qe_xj
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+    Info_162:
+      Name: hall-prefabs/createroommethod/rf_xj
+      Dependencies:
+        Dependency_0: hall-atlas/hall
+        Dependency_1: hall-common/microsoftyaheigb
+    Info_163:
+      Name: hall-prefabs/photoframe/head
+      Dependencies:
+        Dependency_0: hall-atlas/headframe
+    Info_164:
+      Name: hall-prefabs/photoframe/xiangkuang1
+      Dependencies:
+        Dependency_0: hall-atlas/headframe
+    Info_165:
+      Name: hall-prefabs/photoframe/xiangkuang10
+      Dependencies:
+        Dependency_0: hall-atlas/headframe
+    Info_166:
+      Name: hall-prefabs/photoframe/xiangkuang11
+      Dependencies:
+        Dependency_0: hall-atlas/headframe
+    Info_167:
+      Name: hall-prefabs/photoframe/xiangkuang12
+      Dependencies:
+        Dependency_0: hall-atlas/headframe
+    Info_168:
+      Name: hall-prefabs/photoframe/xiangkuang13
+      Dependencies:
+        Dependency_0: hall-atlas/headframe
+    Info_169:
+      Name: hall-prefabs/photoframe/xiangkuang14
+      Dependencies:
+        Dependency_0: hall-atlas/headframe
+    Info_170:
+      Name: hall-prefabs/photoframe/xiangkuang15
+      Dependencies:
+        Dependency_0: hall-atlas/headframe
+    Info_171:
+      Name: hall-prefabs/photoframe/xiangkuang2
+      Dependencies:
+        Dependency_0: hall-atlas/headframe
+    Info_172:
+      Name: hall-prefabs/photoframe/xiangkuang3
+      Dependencies:
+        Dependency_0: hall-atlas/headframe
+    Info_173:
+      Name: hall-prefabs/photoframe/xiangkuang4
+      Dependencies:
+        Dependency_0: hall-atlas/headframe
+    Info_174:
+      Name: hall-prefabs/photoframe/xiangkuang5
+      Dependencies:
+        Dependency_0: hall-atlas/headframe
+    Info_175:
+      Name: hall-prefabs/photoframe/xiangkuang6
+      Dependencies:
+        Dependency_0: hall-atlas/headframe
+    Info_176:
+      Name: hall-prefabs/photoframe/xiangkuang7
+      Dependencies:
+        Dependency_0: hall-atlas/headframe
+    Info_177:
+      Name: hall-prefabs/photoframe/xiangkuang8
+      Dependencies:
+        Dependency_0: hall-atlas/headframe
+    Info_178:
+      Name: hall-prefabs/photoframe/xiangkuang9
+      Dependencies:
+        Dependency_0: hall-atlas/headframe
+    Info_179:
+      Name: hall-prefabs/ranklevel/blueparticle
+      Dependencies:
+        Dependency_0: hall-atlas/common
+    Info_180:
+      Name: hall-prefabs/ranklevel/greenparticle
+      Dependencies:
+        Dependency_0: hall-atlas/common
+    Info_181:
+      Name: hall-prefabs/ranklevel/matchrankpanel
+      Dependencies:
+        Dependency_0: hall-atlas/qualify
+        Dependency_1: hall-atlas/icon_qingtong
+        Dependency_2: hall-common/microsoftyaheigb
+    Info_182:
+      Name: hall-prefabs/ranklevel/pinkparitcle
+      Dependencies:
+        Dependency_0: hall-atlas/common
+    Info_183:
+      Name: hall-prefabs/ranklevel/ranklevel
+      Dependencies:
+        Dependency_0: hall-atlas/common
+    Info_184:
+      Name: hall-prefabs/ranklevel/redparticle
+      Dependencies:
+        Dependency_0: hall-atlas/common
+    Info_185:
+      Name: hall-prefabs/ranklevel/starsdown
+      Dependencies:
+        Dependency_0: hall-atlas/qualify
+    Info_186:
+      Name: hall-prefabs/ranklevel/starsup
+      Dependencies:
+        Dependency_0: hall-atlas/qualify
+        Dependency_1: hall-atlas/common
+    Info_187:
+      Name: hall-prefabs/ranklevel/yellowparticle
+      Dependencies:
+        Dependency_0: hall-atlas/common
+    Info_188:
+      Name: hall-common/microsoftyaheigb
+      Dependencies: {}
+    Info_189:
+      Name: hall-atlas/common
+      Dependencies: {}

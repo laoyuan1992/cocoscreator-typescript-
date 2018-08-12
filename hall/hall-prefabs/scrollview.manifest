@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 3605877787
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b9d2b19c47a7fca25171a15ce35e158e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d0050e0f6f6f4a1d1620d0509571d089
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -1200242548, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1367256648, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/LuaFramework/Resources/Prefabs/ScrollView.prefab
+Dependencies: []
